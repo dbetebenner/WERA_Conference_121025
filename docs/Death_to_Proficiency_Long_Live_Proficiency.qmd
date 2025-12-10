@@ -52,73 +52,177 @@ library(qrcode)
 
 <h3>Damian Betebenner</h3>
 
-<h4>February 20th, 2025</h4>
+<h4>June 23rd, 2025</h4>
 
 :::
 
 :::{.column style="text-align: right; font-size: 68px; font-style: italic; padding-top: 500px;"}
 
-The case for coherence in accountability system design
+Beyond accountability toward performance management
 
 :::
 
 ::::
+
 
 <!--
 #########################################
-Section: Processes versus Outcomes
+Section: Accountability is broken
 #########################################
 -->
 
-# {background-image=assets/img/saban_quote.png background-size="cover" background-position="center"}
+# {background-image=assets/img/broken.png background-size="contain" background-position="center" background-color=#86A13D}
 
 ---
 
-<h2>Gill's Framework</h2>
+## {background-color=#f4f4f0}
+
+<h2 class="large-centered-quote">What’s flawed isn’t educational accountability itself, but our assumption that it's both an appropriate and adequate response for the educational challenges at hand.</h2>
+
+---
+
+<h2>What are the educational challenges at hand?</h2>
 
 :::{.incremental}
 
-- Brian Gill's [-@Gill:2022] paper, [_What should the future of educational accountability look like?,_]{style="color: blue;"} introduces a useful framework for indicators used in accountability systems.
-- Three Core Components of Gill's Framework
-  - **Processes:**  The activities, instructional practices, and organizational elements that schools implement to support student learning.
-  - **Impacts:**  The measurable effects of processes on student learning and development, often captured through growth metrics or value-added models.
-  - **Outcomes:**  The long-term results of education, such as achievement/proficiency levels, graduation rates, and other indicators of student success.
-
-- Gill argues that for indicators to drive meaningful improvement, they must be:
-  - **Valid:** Accurately measure what they claim to measure without systematic bias.
-  - **Reliable:** Stable and consistent over time to avoid misdiagnosis or loss of credibility.
-  - **Robust:** Resistant to unintended consequences and manipulation while capturing critical dimensions of educational quality.
+- There are obviously many.
+- I focus my attention on the canonical challenges related to outputs.
+  - The challenge of chronic underperformance.
+  - The challenge of chronic achievement gaps.
+- Since at least NCLB, the challenge of raising achievement while eliminating achievement gaps has been a pillar of education policy and accountability.
+- Not surprisingly, annual state reporting of summative assessment results presumes these two challenges.
+- There are obviously many educational challenges related to inputs and process that impact these outputs. Without jumping ahead too far, in general I'm skeptical of the incorporation of inputs as a solution to the current accountability conundrum -- rearranging the deck chairs on the Titanic.
 
 :::
 
 ---
 
-## Gill's Infographic {transition="fade"}
-
-:::::{.columns}
-
-::::{.column width="40%"}
+<h2>Two Fundamental Flaws of Current Accountability Systems</h2>
 
 :::{.incremental}
 
-* Gill's focus is on the quality of the three components as opposed to how they fit together.[^1]
-* Gill's ordering of the components from left to right is opposite of how they occur temporally: Processes [lead to]{style="color: magenta;"} Impacts [lead to]{style="color: magenta;"} which [lead to]{style="color: magenta;"} Outcomes.
-* Though the quality of the components is important, I argue that the [connection]{style="color: magenta;"} between the components is more important.
-* Connections between the components is part of the foundation of coherence. 
+1. The presumption that educational accountability is an adequate and acceptable response to the challenge of chronic underperformance and large achievement gaps. 
+2. In trying to fulfill the achievement driven mandates of NCLB and ESSA, accountability systems were conceptualized and built on a flawed view of how student growth and achievement relate to each other —- making it impossible for those systems to fulfill their intended goals.
 
 :::
 
-::::
+<!--
+#########################################
+Section: Fundamental Flaw #1
+#########################################
+-->
 
-::::{.column width="60%"}
+# {background-image=assets/img/performance_management_toolbox.png background-size="contain" background-position="center"}
 
-![](assets/img/gill_infographic.png){width=100%}
+---
 
-::::
+<h2>Fundamental Flaw #1</h2>
+<h3>Educational accountability is an adequate and acceptable response to the challenge of chronic underperformance and large achievement gaps.</h3>
 
-:::::
+:::{.incremental}
 
-[^1]: Within the fine print of Gill's infographic for _Processes_ he does point out that "... and other activities that produce the impacts leading to the improved student outcomes."
+- States have spent considerable resources over the last 25 years complying with NCLB/ESSA constructing accountability systems in an attempt to fulfill this prophecy.
+- From the creation of theories of action to the incorporation of growth to the current discussion of the incorporation of alternative indicators, there is a persistent belief that accountability system design is the problem to overcome.
+- Looked at historically, the results of accountability systems addressing the challenge of chronic underperformance and large achievement gaps have been disappointing even to the most ardent supporters of accountability.
+- Accountability, I would argue, has been and always will be inadequate to the challenge of chronic underperformance and large achievement gaps.
+
+:::
+
+---
+
+<h2>Fundamental Flaw #1</h2>
+<h3>Educational accountability is an adequate and acceptable response to the challenge of chronic underperformance and large achievement gaps.</h3>
+
+:::{.incremental}
+
+- Accountability systems have largely relied on public reporting and school ratings to incentivize change. 
+- This approach, while politically expedient, assumes that transparency and stigma alone will drive school improvement.
+- Extensive research (e.g., Koretz, 2017; Bryk et al., 2015) has shown that without meaningful analytic and organizational support, high-stakes ratings often result in defensive behavior (e.g., narrowing curriculum, gaming metrics) rather than sustained capacity-building.
+- The solution isn't different or more accountability, it moving beyond accountability toward performance management.
+:::
+
+---
+
+## {background-color=#f4f4f0}
+
+<h2 class="large-centered-quote">What’s the difference between accountability and performance management?</h2>
+
+
+---
+
+## {background-color=#f4f4f0}
+
+<h2 class="medium-left-quote">This is the difference between a retrospective question of identifying
+fault as opposed to a prospective strategy to engineer some corrective
+measure, almost independent of considering whether there was
+blame-worthiness. And to move away from the blame-worthiness
+paradigm toward something that is more regulatory in nature. Where one
+might seize upon disparities or circumstances that are for some reason
+deemed unacceptable and engineer the interventions needed to bring
+about the necessary change. ... It’s the no-fault gap closing strategy in
+which the effort is to build a consensus about a vision of an improved
+society rather than figure out where’s the person or entity we want to pillory.
+<br><br>
+Christopher Edley (2006)</h2>
+
+
+---
+
+<h2>Performance Management versus Accountability</h2>
+
+:::{.incremental}
+
+- Performance management is a comprehensive, ongoing effort to improve an organization’s effectiveness, efficiency, and outcomes.
+- Accountability is just one component of performance management—focused on measuring, reporting, and ensuring responsibility for outcomes.
+- While performance management emphasizes continuous improvement, accountability primarily evaluates past performance.
+- Effective performance management uses accountability as a tool, but also incorporates support, innovation, and strategic planning.
+- Accountability without performance management can lead to compliance-driven behaviors rather than meaningful improvement.
+- A coherent system integrates accountability within a broader performance management framework, ensuring data is used to drive improvement rather than just to judge performance.
+
+:::
+
+
+<!--
+#########################################
+Section: Fundamental Flaw #2
+#########################################
+-->
+
+# {background-image=assets/img/knot.png background-size="cover" background-position="center"}
+
+---
+
+<h2>Fundamental Flaw #2</h2>
+<h3>Incoherence between the components of the accountability system and its intended goals.</h3>
+
+:::{.incremental}
+
+- NCLB, later followed by ESSA, place central importance on the achievement of students often reported in terms of proficiency rates.
+- Proficiency rates, from school accountability to the reporting of summary results at the state level assume primary significance as THE indicator of education performance.
+- The primacy of proficiency rates (i.e. achievement) followed by a later addition of growth metrics into accountability systems (e.g., SGPs) has led to a fundamental misunderstanding of the relationship between achievement and growth.
+- This misunderstanding manifests itself in poor performance management: Proficiency and proficiency trends are the wrong tools for the effective performance management necessary to improve an education system. 
+
+:::
+
+---
+
+<h2>Fundamental Flaw #2</h2>
+<h3>Incoherence between the components of the accountability system and its intended goals.</h3>
+
+:::{.incremental}
+
+- The incorporation of growth metrics into accountability systems indicates that achievement and growth are viewed as different concepts. 
+- Yet, the difference in terms of how they are used in accountability systems belies a simple underlying relationship.
+  - Growth is a leading indicator of achievement.
+  - Achievement is a lagging indicator of growth.
+- That is, high rates of growth (i.e., learning) lead to higher rates of attainment.
+- A coherent understanding between the relationship between growth and achievement is critical to understanding performance management in education.  
+
+:::
+
+---
+
+## {background-image=assets/img/processes_impacts_outcomes_infographic_1.png background-size="contain" background-position="center"}
 
 ---
 
@@ -130,7 +234,7 @@ Section: Processes versus Outcomes
 
 :::{.incremental}
 
-* This modified infographic correctly orders the Processes, Impacts, and Outcomes components.
+* This infographic orders the Processes, Impacts, and Outcomes components.
 * Growth and Status indicators are indicated to the right of the infographic: Growth is a leading indicator whereas Status is a lagging indicator.
 * Growth is the bridge connecting Processes to Outcomes.
 
@@ -156,10 +260,9 @@ Section: Processes versus Outcomes
 
 :::{.incremental}
 
-* I've added to dashed lines to the figure indicating proper (coherent) and improper (incoherent) connections between the components.
+* The dashed lines in the figure indicate proper (coherent) and improper (incoherent) connections between the components.
 * The red dashed line connecting outcomes to processes is improper but is done repeatedly even by experts in our field.
 * The black dashed line connecting growth to processes is the proper connection but is rarely used in accountability contexts.
-  * Examining the impact of processes has been the purview of educational research and program evaluation for over a century.
 
 :::
 
@@ -173,31 +276,6 @@ Section: Processes versus Outcomes
 
 :::::
 
--
-
-
-<!--
-#########################################
-Section: Performance Management
-#########################################
--->
-
-# {background-image=assets/img/performance_management_toolbox.png background-size="cover" background-position="center"}
-
----
-
-<h2>Performance Management versus Accountability</h2>
-
-:::{.incremental}
-
-- Performance management is a comprehensive, ongoing effort to improve an organization’s effectiveness, efficiency, and outcomes.
-- Accountability is just one component of performance management—focused on measuring, reporting, and ensuring responsibility for outcomes.
-- While performance management emphasizes continuous improvement, accountability primarily evaluates past performance.
-- Effective performance management uses accountability as a tool, but also incorporates support, innovation, and strategic planning.
-- Accountability without performance management can lead to compliance-driven behaviors rather than meaningful improvement.
-- A coherent system integrates accountability within a broader performance management framework, ensuring data is used to drive improvement rather than just to judge performance.
-
-:::
 
 <!--
 #########################################
@@ -205,7 +283,7 @@ Section: Proficiency
 #########################################
 -->
 
-# {background-image="assets/img/king.jpg" background-size="cover" background-position="center"}
+# {background-image="assets/img/king.jpg" background-size="contain" background-position="center"}
 
 <div style="position: absolute; top: 15%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0,0,0,0.0); padding: 20px; border-radius: 10px;">
   <p class="gothic-text" style="font-size: 150px; color: gold;">Proficiency</p>
@@ -259,28 +337,17 @@ Section: Proficiency
 - Even with coherence, there is no guarantee that the education system will achieve the policy goals.
 - But without coherence, I contend, accountability initiatives intended to improve the education system are doomed to fail.
 
----
 
 <!--
 #########################################
-Section: Coherence
+Section: Processes versus Outcomes
 #########################################
 -->
 
-# {background-image="assets/img/coherence.jpg" background-size="cover" background-position="center"}
+# {background-image=assets/img/saban_quote.png background-size="contain" background-position="center"}
 
----
 
-<h2>Coherence</h2>
 
-- The term [__coherence__]{style="color: magenta;"} is not frequently used in discussions of accountability systems and when it is, it is often not clearly defined.
-- What is coherence with respect to accountability systems?
-- What is incoherent about current accountability systems?
-- Why is coherence important?
-- How can coherence be instantiated in accountability systems?
-- What benefits does coherence provide?
-
----
 
 
 
@@ -290,3 +357,18 @@ Section: Coherence
 
 ::: {#refs}
 :::
+
+---
+
+```{r echo=FALSE, results="hide", message=FALSE}
+
+URL <- "https://dbetebenner.github.io/NCSA_2025_Conference_DTP-LLP/Death_to_Proficiency_Long_Live_Proficiency.html#/section"
+
+qr_code.tmp <- qrcode::qr_code(URL)
+png("assets/img/qr_code.png", width = 800, height = 800, bg = "transparent")
+par(bg = NA)
+plot(qr_code.tmp, bg = "transparent")
+invisible(dev.off())
+```
+
+![](assets/img/qr_code.png){width=800px style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
