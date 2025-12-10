@@ -1,0 +1,8 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+
+/* Define a class for gothic text */
+.gothic-text {
+    font-family: 'UnifrakturMaguntia', cursive;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
