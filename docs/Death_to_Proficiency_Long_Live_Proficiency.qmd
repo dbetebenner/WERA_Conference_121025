@@ -141,6 +141,10 @@ Section: Processes versus Outcomes
 
 ---
 
+## {background-image=assets/img/arthur_ashe.png background-size="contain" background-position="center"}
+
+---
+
 ## {background-image=assets/img/saban_quote.png background-size="contain" background-position="center"}
 
 ---
