@@ -1,6 +1,6 @@
 ---
 pagetitle: "Death to Proficiency! Long Live Proficiency!"
-subtitle: "The case for coherence in accountability system design"
+subtitle: "Beyond accountability toward performance management"
 author: Damian Betebenner
 format:
   revealjs:
@@ -52,7 +52,7 @@ library(qrcode)
 
 <h3>Damian Betebenner</h3>
 
-<h4>June 23rd, 2025</h4>
+<h4>December 11th, 2025</h4>
 
 :::
 
@@ -63,6 +63,95 @@ Beyond accountability toward performance management
 :::
 
 ::::
+
+
+<!--
+#########################################
+Section: Processes versus Outcomes
+#########################################
+-->
+
+# {background-image=assets/img/processes_versus_outcomes.png background-size="contain" background-position="center"}
+
+---
+
+<h2>Outcomes, outcomes, outcomes</h2>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<p style="font-size: 2em; text-align: center; margin-top: 2.0em;">We live in a society obsessed with ends</p>
+:::
+
+::: {.column width="50%"}
+- *I want to be successful.*
+- *I want to be thin.*
+- *I want to be admired.*
+- *I want to be powerful.*
+- *I want to be famous.*
+- *I want to have a million followers.*
+- *I want to be the best.*
+- *I want to be liked.*
+- *I want to have it all.*
+- *I want to be the fastest.*
+- *I want to win.*
+:::
+
+::::
+
+---
+
+<h2>A Focus on Outcomes</h2>
+
+**(at the expense of a focus on process)**
+
+<table style="width: 80%; margin: 1.5em auto; font-size: 1.1em; border-collapse: separate; border-spacing: 0 0.6em;">
+<tr>
+  <td style="text-align: right; width: 40%;"><strong>Process</strong></td>
+  <td style="text-align: center; width: 20%; font-size: 0.7em;">vs.</td>
+  <td style="text-align: left; width: 40%;"><strong>Product</strong></td>
+</tr>
+<tr>
+  <td style="text-align: right;"><strong>Means</strong></td>
+  <td style="text-align: center; font-size: 0.7em;">vs.</td>
+  <td style="text-align: left;"><strong>Ends</strong></td>
+</tr>
+<tr>
+  <td style="text-align: right;"><strong>Journey</strong></td>
+  <td style="text-align: center; font-size: 0.7em;">vs.</td>
+  <td style="text-align: left;"><strong>Destination</strong></td>
+</tr>
+<tr>
+  <td style="text-align: right;"><strong>Development</strong></td>
+  <td style="text-align: center; font-size: 0.7em;">vs.</td>
+  <td style="text-align: left;"><strong>Result</strong></td>
+</tr>
+<tr>
+  <td style="text-align: right;"><strong>Learning</strong></td>
+  <td style="text-align: center; font-size: 0.7em;">vs.</td>
+  <td style="text-align: left;"><strong>Attainment</strong></td>
+</tr>
+<tr>
+  <td style="text-align: right;"><strong>Growth</strong></td>
+  <td style="text-align: center; font-size: 0.7em;">vs.</td>
+  <td style="text-align: left;"><strong>Achievement</strong></td>
+</tr>
+</table>
+
+
+---
+
+## {background-image=assets/img/saban_quote.png background-size="contain" background-position="center"}
+
+---
+
+<h2>What can Sports teach us about accountability.</h2>
+
+:::{.fragment}
+- What is the single indicator used to judge the quality of a sports team? 
+:::
+
+
 
 
 <!--
@@ -83,16 +172,20 @@ Section: Accountability is broken
 
 <h2>What are the educational challenges at hand?</h2>
 
-:::{.incremental}
-
+::: {.fragment}
 - There are obviously many.
+:::
+
+::: {.fragment}
 - I focus my attention on the canonical challenges related to outputs.
   - The challenge of chronic underperformance.
   - The challenge of chronic achievement gaps.
-- Since at least NCLB, the challenge of raising achievement while eliminating achievement gaps has been a pillar of education policy and accountability.
-- Not surprisingly, annual state reporting of summative assessment results presumes these two challenges.
-- There are obviously many educational challenges related to inputs and process that impact these outputs. Without jumping ahead too far, in general I'm skeptical of the incorporation of inputs as a solution to the current accountability conundrum -- rearranging the deck chairs on the Titanic.
+:::
 
+::: {.fragment}
+- Since at least NCLB, the challenge of raising achievement while eliminating achievement gaps has been a pillar of education policy and accountability.
+- Not surprisingly, annual state reporting of summative assessment results center around these two challenges.
+- There are obviously many educational challenges related to inputs and process that impact these outputs. Without jumping ahead too far, in general I'm skeptical of the incorporation of inputs (process indicators) as a solution to the current accountability conundrum -- rearranging the deck chairs on the Titanic.
 :::
 
 ---
@@ -101,7 +194,7 @@ Section: Accountability is broken
 
 :::{.incremental}
 
-1. The presumption that educational accountability is an adequate and acceptable response to the challenge of chronic underperformance and large achievement gaps. 
+1. The presumption that educational accountability -- specifically the public reporting of summative assessment results -- is an adequate and acceptable response to the challenge of chronic underperformance and large achievement gaps. 
 2. In trying to fulfill the achievement driven mandates of NCLB and ESSA, accountability systems were conceptualized and built on a flawed view of how student growth and achievement relate to each other —- making it impossible for those systems to fulfill their intended goals.
 
 :::
@@ -119,7 +212,7 @@ Section: Fundamental Flaw #1
 <h2>Fundamental Flaw #1</h2>
 <h3>Educational accountability is an adequate and acceptable response to the challenge of chronic underperformance and large achievement gaps.</h3>
 
-:::{.incremental}
+:::{.fragment}
 
 - States have spent considerable resources over the last 25 years complying with NCLB/ESSA constructing accountability systems in an attempt to fulfill this prophecy.
 - From the creation of theories of action to the incorporation of growth to the current discussion of the incorporation of alternative indicators, there is a persistent belief that accountability system design is the problem to overcome.
@@ -133,7 +226,7 @@ Section: Fundamental Flaw #1
 <h2>Fundamental Flaw #1</h2>
 <h3>Educational accountability is an adequate and acceptable response to the challenge of chronic underperformance and large achievement gaps.</h3>
 
-:::{.incremental}
+:::{.fragment}
 
 - Accountability systems have largely relied on public reporting and school ratings to incentivize change. 
 - This approach, while politically expedient, assumes that transparency and stigma alone will drive school improvement.
@@ -337,14 +430,6 @@ Section: Proficiency
 - Even with coherence, there is no guarantee that the education system will achieve the policy goals.
 - But without coherence, I contend, accountability initiatives intended to improve the education system are doomed to fail.
 
-
-<!--
-#########################################
-Section: Processes versus Outcomes
-#########################################
--->
-
-# {background-image=assets/img/saban_quote.png background-size="contain" background-position="center"}
 
 
 
