@@ -149,11 +149,59 @@ Section: Processes versus Outcomes
 
 ---
 
-<h2>What can Sports teach us about accountability.</h2>
+<h2>What can Sports teach us about accountability?</h2>
 
 :::{.fragment}
 - What is the single indicator used to judge the quality of a sports team? 
 :::
+
+::: {.fragment}
+<p style="text-align: center; font-size: 2em; margin-top: 1em; color: #4CAF50;"><strong>Wins & Losses</strong></p>
+:::
+
+:::{.fragment}
+- Every NFL/NBA/NHL/MLB/... coach knows that their future employment is contingent on wins and losses. 
+:::
+
+
+::: {.fragment}
+<p style="text-align: center; font-size: 2em; margin-top: 1em; color: #4CAF50;"><strong>However...</strong></p>
+:::
+
+:::{.fragment}
+- The most effective coaching involves a focus on process: a player learning their role in a game that gives the team the best chance to win.
+- In fact, having players attempt ill-advised plays in order to win is the last thing a coach wants to see. 
+:::
+
+---
+
+<h2>What can Sports teach us about accountability?</h2>
+
+:::{.fragment}
+- In education, wins and losses are analogous to proficient and non-proficient students.
+- Public perception -- in some part based upon current accountability system reporting -- reflects this in the weight that student achievement (i.e., proficiency) is given.
+:::
+
+:::{.fragment}
+- Unlike in sports, outcomes, as opposed to process, is often the motivating indicator: "Increase proficiency rates!"
+:::
+
+---
+
+<p style="text-align: center; font-size: 2em; margin-top: 1em; color: #4CAF50;"><strong>When accountability systems prioritize proficiency above all else, how do rational, strategic thinking school principals or district leaders respond?  </strong></p>
+
+---
+
+<p style="text-align: center; font-size: 2em; margin-top: 1em; color: #4CAF50;"><strong>Focus on Bubble Kids!</strong></p>
+
+:::{.fragment}
+- The focus on bubble kids is a rational response to the accountability system that prioritizes proficiency above all else.
+- A maladaptive response just like the ill-advised plays in sports that follow from a focus on wins and losses divorced from process. 
+:::
+
+---
+
+## {background-image=assets/img/saban_quote_2.png background-size="contain" background-position="center"}
 
 
 
@@ -234,7 +282,7 @@ Section: Fundamental Flaw #1
 
 - Accountability systems have largely relied on public reporting and school ratings to incentivize change. 
 - This approach, while politically expedient, assumes that transparency and stigma alone will drive school improvement.
-- Extensive research (e.g., Koretz, 2017; Bryk et al., 2015) has shown that without meaningful analytic and organizational support, high-stakes ratings often result in defensive behavior (e.g., narrowing curriculum, gaming metrics) rather than sustained capacity-building.
+- Extensive research [e.g., @Koretz:2017; @BrykEtal:2015] has shown that without meaningful analytic and organizational support, high-stakes ratings often result in defensive behavior (e.g., narrowing curriculum, gaming metrics) rather than sustained capacity-building.
 - The solution isn't different or more accountability, it moving beyond accountability toward performance management.
 :::
 
@@ -260,17 +308,19 @@ about the necessary change. ... It’s the no-fault gap closing strategy in
 which the effort is to build a consensus about a vision of an improved
 society rather than figure out where’s the person or entity we want to pillory.
 <br><br>
-Christopher Edley (2006)</h2>
+— Christopher Edley Jr. [-@Edley:2006]</h2>
 
 
 ---
 
 <h2>Performance Management versus Accountability</h2>
 
-:::{.incremental}
-
+:::{.fragment}
 - Performance management is a comprehensive, ongoing effort to improve an organization’s effectiveness, efficiency, and outcomes.
-- Accountability is just one component of performance management—focused on measuring, reporting, and ensuring responsibility for outcomes.
+    - Accountability is just one component of performance management—focused on measuring, reporting, and ensuring responsibility for outcomes.
+:::
+
+:::{.fragment}
 - While performance management emphasizes continuous improvement, accountability primarily evaluates past performance.
 - Effective performance management uses accountability as a tool, but also incorporates support, innovation, and strategic planning.
 - Accountability without performance management can lead to compliance-driven behaviors rather than meaningful improvement.
@@ -292,21 +342,15 @@ Section: Fundamental Flaw #2
 <h2>Fundamental Flaw #2</h2>
 <h3>Incoherence between the components of the accountability system and its intended goals.</h3>
 
-:::{.incremental}
-
 - NCLB, later followed by ESSA, place central importance on the achievement of students often reported in terms of proficiency rates.
 - Proficiency rates, from school accountability to the reporting of summary results at the state level assume primary significance as THE indicator of education performance.
 - The primacy of proficiency rates (i.e. achievement) followed by a later addition of growth metrics into accountability systems (e.g., SGPs) has led to a fundamental misunderstanding of the relationship between achievement and growth.
 - This misunderstanding manifests itself in poor performance management: Proficiency and proficiency trends are the wrong tools for the effective performance management necessary to improve an education system. 
 
-:::
-
 ---
 
 <h2>Fundamental Flaw #2</h2>
 <h3>Incoherence between the components of the accountability system and its intended goals.</h3>
-
-:::{.incremental}
 
 - The incorporation of growth metrics into accountability systems indicates that achievement and growth are viewed as different concepts. 
 - Yet, the difference in terms of how they are used in accountability systems belies a simple underlying relationship.
@@ -314,8 +358,6 @@ Section: Fundamental Flaw #2
   - Achievement is a lagging indicator of growth.
 - That is, high rates of growth (i.e., learning) lead to higher rates of attainment.
 - A coherent understanding between the relationship between growth and achievement is critical to understanding performance management in education.  
-
-:::
 
 ---
 
@@ -355,13 +397,9 @@ Section: Fundamental Flaw #2
 
 ::::{.column width="40%"}
 
-:::{.incremental}
-
 * The dashed lines in the figure indicate proper (coherent) and improper (incoherent) connections between the components.
 * The red dashed line connecting outcomes to processes is improper but is done repeatedly even by experts in our field.
 * The black dashed line connecting growth to processes is the proper connection but is rarely used in accountability contexts.
-
-:::
 
 ::::
 
@@ -451,7 +489,7 @@ Section: Proficiency
 
 ```{r echo=FALSE, results="hide", message=FALSE}
 
-URL <- "https://dbetebenner.github.io/NCSA_2025_Conference_DTP-LLP/Death_to_Proficiency_Long_Live_Proficiency.html#/section"
+URL <- "https://dbetebenner.github.io/WERA_Conference_121025/Death_to_Proficiency_Long_Live_Proficiency.html#/section"
 
 qr_code.tmp <- qrcode::qr_code(URL)
 png("assets/img/qr_code.png", width = 800, height = 800, bg = "transparent")
